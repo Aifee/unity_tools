@@ -1,0 +1,8 @@
+E:\git_projects\DbForUnity\Tools\FbxImporter\FbxImporter\bin\Debug\FbxImporter.dll
+E:\git_projects\DbForUnity\Tools\FbxImporter\FbxImporter\bin\Debug\FbxImporter.pdb
+E:\git_projects\DbForUnity\Tools\FbxImporter\FbxImporter\bin\Debug\UnityEditor.dll
+E:\git_projects\DbForUnity\Tools\FbxImporter\FbxImporter\bin\Debug\UnityEngine.dll
+E:\git_projects\DbForUnity\Tools\FbxImporter\FbxImporter\obj\Debug\FbxImporter.csprojResolveAssemblyReference.cache
+E:\git_projects\DbForUnity\Tools\FbxImporter\FbxImporter\obj\Debug\FbxImporter.csproj.CoreCompileInputs.cache
+E:\git_projects\DbForUnity\Tools\FbxImporter\FbxImporter\obj\Debug\FbxImporter.dll
+E:\git_projects\DbForUnity\Tools\FbxImporter\FbxImporter\obj\Debug\FbxImporter.pdb
